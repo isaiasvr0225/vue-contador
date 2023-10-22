@@ -1,6 +1,6 @@
-# vue-practice
+# vue-contador
 
-This template should help get you started developing with Vue 3 in Vite.
+This simple contador page was developed with Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
