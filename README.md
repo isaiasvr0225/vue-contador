@@ -1,8 +1,8 @@
 # vue-contador
 
-This simple contador page was developed with Vue 3 in Vite.
+This simple counter page which was developed with Vue 3 in Vite.
 
-Youn can try it in using the next Netlify web page: [vue-counter](https://vue-counter-75.netlify.app)
+Youn can try it in using the next Netlify web page: [vue-counter](https://vue-counter-75.netlify.app){:target="_blank"}
 
 ## Recommended IDE Setup
 
