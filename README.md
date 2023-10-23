@@ -2,7 +2,7 @@
 
 This simple counter page was developed with Vue 3 in Vite.
 
-Youn can try it in using the next Netlify web page: <a href="https://vue-counter-75.netlify.app" target="_blank">Vue-counter</a>
+Youn can try it in the next Netlify web page: <a href="https://vue-counter-75.netlify.app" target="_blank">Vue-counter</a>
 
 
 ## Recommended IDE Setup
