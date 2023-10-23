@@ -2,6 +2,8 @@
 
 This simple contador page was developed with Vue 3 in Vite.
 
+Youn can try it in using the next Netlify web page: vue-counter-75.netlify.app
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
